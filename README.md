@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MA(T&I).
 - 💞️ [Active Learning](https://clairelind1.github.io/) | Language Learning Resources (日本語, Korean) [Active Learning Github Repository](https://github.com/ClaireLind1/ClaireLind1.github.io)
 - 📫 How to reach me achuotong@163.com; achuotong@gmail.com.
-- 
 
 <!---
 ClaireLind1/ClaireLind1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
