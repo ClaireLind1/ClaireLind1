@@ -1,7 +1,13 @@
 # 👋 Hi, I’m @ClaireLind1.
+
 - 🧡 I’m interested in coding, language learning, tourism, music and calligraphy.
+
 - 🌱 I’m currently learning MA(T&I).
-- 🌟 Project: [Active Learning](https://clairelind1.github.io/) | [Active Learning Github Repository](https://github.com/ClaireLind1/ClaireLind1.github.io)
+
+- 🌟 Project: 
+  - [Active Learning](https://clairelind1.github.io/) 
+  - [ClaireLind's Notion Blog](https://notion-next-kohl-sigma.vercel.app/)
+
 - 📫 How to reach me: achuotong@163.com; achuotong@gmail.com.
 
 <!---
