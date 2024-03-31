@@ -8,6 +8,7 @@
   - [Active Learning](https://clairelind1.github.io/)
   - [Active Reading](https://github.com/ClaireLind1/Active-Reading_NotionNext/tree/deploy/activereading_notionnext)
   - [ClaireLind Blog](https://github.com/ClaireLind1/Active-Reading_NotionNext/tree/deploy/clairelind_blog)
+
   Deleted:
   - [ClaireLind's Notion Blog](https://notion-next-kohl-sigma.vercel.app/)
 
