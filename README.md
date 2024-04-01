@@ -9,7 +9,7 @@
     Archived
   - [Active Learning](https://clairelind1.github.io/)
 
-    In Process:
+  In Process:
   - [Active Reading](https://activereadings.top)
   - [ClaireLind Blog](https://clairelind.top)
 
