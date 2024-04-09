@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ClaireLind1.
+# 👋 Hi, I’m @ClaireLind.
 
 - 🧡 I’m interested in coding, language learning, tourism, music and calligraphy.
 
