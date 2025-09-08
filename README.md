@@ -1,15 +1,13 @@
 # 👋 Hi, I’m @ClaireLind.
 
-- 🧡 I’m interested in coding, language learning, tourism, music and calligraphy.
+- 🧡 I’m interested in coding, languages, tourism, music and calligraphy.
 
-- 🌱 I’m currently learning MA(T&I).
+- 🌱 I’m currently learning SQL, and Python.
 
 - 🌟 Project: 
 
     Archived
   - [Active Learning](https://clairelind1.github.io/)
-
-  In Process:
   - [Active Reading](https://activereadings.top)
   - [ClaireLind Blog](https://clairelind.top)
 
