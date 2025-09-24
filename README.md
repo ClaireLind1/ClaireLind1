@@ -4,17 +4,6 @@
 
 - 🌱 I’m currently learning SQL, and Python.
 
-- 🌟 Project: 
-
-    Archived
-  - [Active Learning](https://clairelind1.github.io/)
-  - [Active Reading](https://activereadings.top)
-  - [ClaireLind Blog](https://clairelind.top)
-
-  Deleted:
-  - [ClaireLind's Notion Blog](https://notion-next-kohl-sigma.vercel.app/)
-
-
 - 📫 How to reach me: achuotong@163.com; achuotong@gmail.com.
 - 🔗social: [LinkedIn](https://www.linkedin.com/in/tong-chu-925a84224)
 
