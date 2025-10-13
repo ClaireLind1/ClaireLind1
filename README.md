@@ -7,7 +7,7 @@
 - 🌱 Current Project: [ClaireLind Tech](https://clairelind.top/)
 
 - 📫 How to reach me: achuotong@163.com; achuotong@gmail.com.
-- 🔗social: [LinkedIn](https://www.linkedin.com/in/tong-chu-925a84224)
+- 🔗 Social account: [LinkedIn](https://www.linkedin.com/in/tong-chu-925a84224)
 
 <!---
 ClaireLind1/ClaireLind1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
