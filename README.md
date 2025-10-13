@@ -2,7 +2,7 @@
 
 - 🧡 I’m interested in coding, languages, tourism, music and calligraphy.
 
-- 🌱 I’m currently learning SQL, and Python.
+- 🌱 I’m currently learning SQL, CSS and Python.
   
 - 🌱 Current Project: [ClaireLind Tech](https://clairelind.top/)
 
