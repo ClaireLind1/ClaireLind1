@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning SQL, CSS and Python.
   
-- 🌱 Current Project: [Active Reading](https://clairelind.top/)
+- 🌱 (CV)[https://tongchu.top]
 
 - 📫 How to reach me: achuotong@163.com; achuotong@gmail.com.
 - 🔗 Social account: [LinkedIn](https://www.linkedin.com/in/tong-chu-925a84224)
